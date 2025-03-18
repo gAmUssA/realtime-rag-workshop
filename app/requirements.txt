@@ -5,3 +5,5 @@ jsonschema
 requests
 setuptools
 wheel
+cachetools
+authlib
